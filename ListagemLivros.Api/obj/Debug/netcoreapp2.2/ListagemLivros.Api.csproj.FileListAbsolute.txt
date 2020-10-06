@@ -1,0 +1,14 @@
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\bin\Debug\netcoreapp2.2\ListagemLivros.Api.deps.json
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\bin\Debug\netcoreapp2.2\ListagemLivros.Api.runtimeconfig.json
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\bin\Debug\netcoreapp2.2\ListagemLivros.Api.runtimeconfig.dev.json
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\bin\Debug\netcoreapp2.2\ListagemLivros.Api.dll
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\bin\Debug\netcoreapp2.2\ListagemLivros.Api.pdb
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.csprojAssemblyReference.cache
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.RazorAssemblyInfo.cache
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.RazorAssemblyInfo.cs
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.AssemblyInfoInputs.cache
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.AssemblyInfo.cs
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.dll
+C:\Users\Ergon\desktop\DesafioMiltec\ListagemLivros.Api\obj\Debug\netcoreapp2.2\ListagemLivros.Api.pdb
