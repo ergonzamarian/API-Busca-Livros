@@ -183,15 +183,15 @@ namespace ListagemLivros.Api.Repositories
             throw new NotImplementedException();
         }
 
-        List<double> IListaLivrosRepository.Frete()
-        {
-            List<double> frete;
-            for (int i = 0; i < 6; i++)
-            {  
-                frete.Add(ConverterJson()[i].price*0.2);
+        // List<double> IListaLivrosRepository.Frete()
+        // {
+        //     List<double> frete;
+        //     for (int i = 0; i < 6; i++)
+        //     {  
+        //         frete.Add(ConverterJson()[i].price*0.2);
 
-            }
-            return frete;
-        }
+        //     }
+        //     return frete;
+        // }
     }
 }

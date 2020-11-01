@@ -68,7 +68,7 @@ namespace ListagemLivros.Api.Controllers
             return Ok(_repositorio.BuscaIllustrator(Illustrator));
         }
 
-        [HttpGet("v1/Genres/{Genres}")]
+        [HttpGet("  ")]
         public IActionResult BuscaGenres(List<string> Genres )
         {
             return Ok(_repositorio.BuscaGenres(Genres));

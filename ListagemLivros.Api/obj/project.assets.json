@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ergon\\desktop\\DesafioMiltec\\ListagemLivros.Api\\ListagemLivros.Api.csproj",
+      "projectUniqueName": "c:\\Users\\Ergon\\Documents\\MeusProjetos\\DesafioMiltec\\DesafioMiltec\\ListagemLivros.Api\\ListagemLivros.Api.csproj",
       "projectName": "ListagemLivros.Api",
-      "projectPath": "C:\\Users\\Ergon\\desktop\\DesafioMiltec\\ListagemLivros.Api\\ListagemLivros.Api.csproj",
+      "projectPath": "c:\\Users\\Ergon\\Documents\\MeusProjetos\\DesafioMiltec\\DesafioMiltec\\ListagemLivros.Api\\ListagemLivros.Api.csproj",
       "packagesPath": "C:\\Users\\Ergon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ergon\\desktop\\DesafioMiltec\\ListagemLivros.Api\\obj\\",
+      "outputPath": "c:\\Users\\Ergon\\Documents\\MeusProjetos\\DesafioMiltec\\DesafioMiltec\\ListagemLivros.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
