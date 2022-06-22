@@ -31,6 +31,7 @@
    - Ordenação Decrescente:  https://localhost:[PORTA]/v1/listarlivros/OD
    - Calcula Frete https://localhost:[PORTA]/v1/listarlivros/frete
 
+
    Todos Listados acima realizam um GET
    
  ## O que foi solicitado
